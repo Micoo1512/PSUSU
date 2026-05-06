@@ -1,0 +1,29 @@
+Summary
+  Generated on: 5/6/2026 - 10:27:18 PM
+  Coverage date: 5/6/2026 - 2:17:11 PM
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 7
+  Files: 5
+  Line coverage: 77.5%
+  Covered lines: 315
+  Uncovered lines: 91
+  Coverable lines: 406
+  Total lines: 590
+  Branch coverage: 73% (92 of 126)
+  Covered branches: 92
+  Total branches: 126
+  Method coverage: 100% (31 of 31)
+  Full method coverage: 77.4% (24 of 31)
+  Covered methods: 31
+  Fully covered methods: 24
+  Total methods: 31
+
+Kolokvijum1                                 77.5%
+  Kolokvijum1.Models.Job                     100%
+  Kolokvijum1.Models.JobHandle               100%
+  Kolokvijum1.Processing.JobReportEntry      100%
+  Kolokvijum1.Processing.ProcessingSystem     94%
+  Kolokvijum1.Processing.SystemConfig        100%
+  Kolokvijum1.Processing.SystemJobConfig     100%
+  Program                                   42.1%
